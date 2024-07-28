@@ -1,8 +1,20 @@
 # TITRE DU TP: Gestion d'une bibliothèque
 
-![Page d'acceuil](image.png)
+![Page d'acceuil](image.png"Pade_d_accueil")
 
+![Liste des livres](image-1.png"Liste_des_livres")
 
+![Liste des auteurs](image-2.png"Liste_des_auteurs")
+
+![Livres d'un auteur](image-3.png"Livres_d_un_auteur")
+
+![Ajout d'un livre](image-4.png"Ajout_d_un_livre")
+
+![Ajout d'un auteur](image-5.png"Ajout_d_un_auteur")
+
+![Recherche d'auteur](image-6.png"Recherche_d_auteur")
+
+![Recherche de livre](image-7.png"Recherche_de_livre")
 <!--
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
