@@ -1,7 +1,6 @@
-TITRE DU TP: Gestion d'une bibliothèque
+# TITRE DU TP: Gestion d'une bibliothèque
 
-![Page d'acceuil](image.png"page d'accueil")
-
+![Page d'acceuil](image.png)
 
 
 <!--
