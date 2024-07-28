@@ -1,21 +1,21 @@
 # TITRE DU TP: Gestion d'une bibliothèque
 
-![Page d'acceuil](image.png"Pade_d_accueil")
+Page_d_accueil ![Page d'acceuil](image.png)
 
-![Liste des livres](image-1.png"Liste_des_livres")
+Liste_des_livres ![Liste des livres](image-1.png)
 
-![Liste des auteurs](image-2.png"Liste_des_auteurs")
+Liste_des_auteurs ![Liste des auteurs](image-2.png)
 
-![Livres d'un auteur](image-3.png"Livres_d_un_auteur")
+Livres_d_un_auteur ![Livres d'un auteur](image-3.png)
 
-![Ajout d'un livre](image-4.png"Ajout_d_un_livre")
+Ajout_d_un_livre ![Ajout d'un livre](image-4.png)
 
-![Ajout d'un auteur](image-5.png"Ajout_d_un_auteur")
+Ajout_d_un_auteur ![Ajout d'un auteur](image-5.png)
 
-![Recherche d'auteur](image-6.png"Recherche_d_auteur")
+Recherche_d_auteur ![Recherche d'auteur](image-6.png)
 
-![Recherche de livre](image-7.png"Recherche_de_livre")
-<!--
+Recherche_de_livre ![Recherche de livre](image-7.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -84,4 +84,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 -
--->
+
