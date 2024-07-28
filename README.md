@@ -1,6 +1,6 @@
 TITRE DU TP: Gestion d'une bibliothèque
 
-![Page d'acceuil](\images\page d'accueil.png"Page d'acceuil")
+![Page d'acceuil](image.png"page d'accueil")
 
 
 
